@@ -1,0 +1,26 @@
+
+-------tamamlananlar --------
+-mail eklenecek
+-register açma kapama eklenecek
+-mobil menü bozuk
+-resim galerisi
+-image update
+-tüm image inputları için galeriden resim seçme
+-email settings ssl/tls inputu hatalı
+-modal responsive değil
+-login, forgot password, register page tasarım
+
+
+-------tamamlanmayanlar---------
+-mail şablonları eklenecek(hoşgeldin maili,şifre unuttum maili, şifre yenileme)
+-Dashboard a istatistik sayfası yapılacak.
+-loading component
+
+
+-------hatalar-------
+-login hatası toast olmuyor
+-butonlar hatalı
+
+
+
+
